@@ -1,3 +1,7 @@
+// time complexity: O(n);
+// Space complexity: O(n);
+
+
 public class SumOfDigits {
 
     static int sumOfDigits(int num){

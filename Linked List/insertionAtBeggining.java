@@ -49,17 +49,16 @@ public class insertionAtBeggining {
     }
 
     public static void main(String[] args) {
-        insertionAtEnd llist = new insertionAtEnd();
+        insertionAtBeggining list = new insertionAtBeggining();
 
         // Function calling
-        llist.insertAtEnd(2);
-        llist.insertAtEnd(4);
-        llist.insertAtEnd(8);
-        llist.insertAtEnd(10);
-        llist.insertAtEnd(15);
-        llist.insertAtEnd(18);
+        list.insertAtEnd(2);
+        list.insertAtEnd(4);
+        list.insertAtEnd(8);
+        list.insertAtEnd(10);
 
-        llist.printNodes();
+        list.insertAtBeg(1);
+        list.printNodes();
         System.out.println();
 
         

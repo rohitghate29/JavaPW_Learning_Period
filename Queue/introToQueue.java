@@ -1,3 +1,5 @@
+//Implementation of queue using LinkedList
+
 import java.util.LinkedList;
 import java.util.Queue;
 

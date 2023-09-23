@@ -1,3 +1,11 @@
+// Q4. Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
+// Example 1:
+// input: head = [1,2,2,1]
+// Output: true
+// Example 2:
+// input: head = [1,2]
+// Output: false
+
 package asg;
 
 public class q4 {

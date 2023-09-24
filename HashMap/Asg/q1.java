@@ -8,6 +8,7 @@ import java.util.TreeMap;
 
 public class q1 {
     public static void main(String[] args) {
+        //TreeMap prints the output in sorted order based on the key values
         TreeMap<Integer, String> tmap = new TreeMap<>();
         tmap.put(5, "Rahul");
         tmap.put(7, "Lakshman");

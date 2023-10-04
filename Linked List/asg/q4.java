@@ -38,6 +38,10 @@ public class q4 {
         return;
     }
 
+    public void checkPalindrome(){
+        
+    }
+
     public void display(){
         Node curr = head;
         while(curr !=null){

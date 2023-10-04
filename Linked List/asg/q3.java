@@ -82,5 +82,7 @@ public class q3 {
         System.out.println();
         ll.removeDuplicate();
         ll.display();
+
+        
     }
 }

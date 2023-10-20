@@ -1,3 +1,6 @@
+//Sudoku Solver Using Backtracking
+// problem link: https://leetcode.com/problems/sudoku-solver/
+
 public class sudokuSolver {
 
     public void solveSudoku(char [][] board){
